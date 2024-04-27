@@ -97,7 +97,7 @@ export const Img = styled.img`
   width: 100%;
   height: 100%;
   max-width: 380px;
-  max-height: 450px;
+  max-height: 400px;
   border-radius: 50%;
   border: 2px solid ${({ theme }) => theme.primary};
 
